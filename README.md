@@ -4,5 +4,6 @@
 ## main features:
 adjust size of card once you hover it with a smoothly animation
 
-Click me to see [Live Prerview](https://www.example.com)
+### See it live:
+[Live Prerview](https://www.example.com)
 
